@@ -1,5 +1,6 @@
 package assignment;
 
+// Create variables for employee name, ID, department, salary and active status. Print a neat report.
 public class Employee_Report {
     public static void main(String[] args) {
 
